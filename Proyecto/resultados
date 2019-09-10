@@ -1,7 +1,0 @@
-n_estimators = 5, acc = 0.66
-n_estimators = 20, acc = 0.76
-n_estimators = 40, acc = 0.79
-n_estimators = 100, acc = 0.80
-n_estimators = 300, acc = 0.81
-n_estimators = 500, acc = 0.818
-
